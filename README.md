@@ -11,7 +11,7 @@ This is a template for integrating MongoDB Atlas with a Netlify site using serve
 1. Clone this repository.
 2. Install dependencies with `npm install`.
 3. Set up your MongoDB Atlas database and get your URI. (Verify IP access is appropriate for your website IP)
-   - You will need to setup the needed envioronment variables in `env.local` or your site secrets:
+   - You will need to setup the needed envioronment variables in `.env.local` or your site secrets:
 ```
  MONGODB_URI = "<YOUR MONGODB | MONGODB ATLAS URI>"
  MONGODB_DATABASE = "tasks_netlify"
