@@ -82,7 +82,7 @@ function App() {
         {tasks.map(task => (
           <div key={task._id} class="restaurant-tile">
             <div class="restaurant-delete-button">
-              <button  onClick={async () => { await deleteTask(task._id) }}>X</button>
+              <button  onClick={async () => { await deleteTask(task._id) }} >X</button>
             </div>
             <h2>{task.title}</h2>
             <p>Status : {task.status} </p>
@@ -93,7 +93,7 @@ function App() {
 
         ))}
       </div>}
-      <button onClick={addTask}>Add Task</button>
+      <button onClick={addTask} >Add Task</button>
     </div> 
   );
 }
