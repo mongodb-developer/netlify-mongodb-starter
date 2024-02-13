@@ -1,8 +1,10 @@
-# Netlify Plugin MongoDB Atlas Integration
+# Netlify and MongoDB Starter template
 
 This is a template for integrating MongoDB Atlas with a Netlify site using serverless functions.
 
 ![Netlift and MongoDB](./images/netlify+mdb.png)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mongodb-developer/netlify-mongodb-starter)
 
 ## Setup
 
