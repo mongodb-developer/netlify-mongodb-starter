@@ -22,4 +22,6 @@ This is a template for integrating MongoDB Atlas with a Netlify site using serve
 
 ## Deploying to Netlify
 
+Click the deploy button above and connect to your website.
+`-OR-`
 Push this repository to your GitHub and link it to a new Netlify site. Set up environment variables in the Netlify UI.
