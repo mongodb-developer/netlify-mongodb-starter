@@ -38,5 +38,10 @@
   port = 8888
   publish = "dist"
 
+[template.environment]
+  MONGODB_URI = "Your MongoDB URI"
+  MONGODB_DATABASE = "A database name to host the tasks (eg. tasks_netlify)"
+  MONGODB_COLLECTION = "A collection name to store the tasks (eg. tasks)"
+
 
 
