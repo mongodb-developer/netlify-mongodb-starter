@@ -6,6 +6,8 @@ This is a template for integrating MongoDB Atlas with a Netlify site using serve
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mongodb-developer/netlify-mongodb-starter)
 
+[![End-to-End Tests](https://github.com/mongodb-developer/netlify-mongodb-starter/actions/workflows/main.yml/badge.svg)](https://github.com/mongodb-developer/netlify-mongodb-starter/actions/workflows/main.yml)
+
 ## Setup
 
 1. Clone this repository.
